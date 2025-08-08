@@ -1,0 +1,15 @@
+Gerente de marketing: 
+- Produtos menos vendidos; ok
+- Faixa Etária, genero de cada; ok
+- Media da idade por produto; ok
+- Quantidade total por produto; ok
+- Quantidade de produto por estado; ok
+- Cidade mais vendida; ok
+- Percentual de quantidade vendida por tipo de loja; ok
+- A evolução das vendas digitais e online em 2024, com grafico de barra com linha e empilhado; ok
+- A evolução das vendas ao longo do ano comparando 2022, 2023 e 2024 ok
+- Quantidade vendida versus faturamento; ok
+- Quantidade total de produtos; ok 
+- Faturamento total por produto; ok
+- Lucro total por produto; ok
+- 
